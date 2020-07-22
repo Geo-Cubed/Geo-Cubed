@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, I'm geo. Have some cats on your passing http://bitly.com/2RdDswm
 
 <!--
 **Geo-Cubed/Geo-Cubed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
