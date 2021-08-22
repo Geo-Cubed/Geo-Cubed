@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning -> Using System.Reflection  
 - 📫 How to reach me -> Discord and Twitter are the easiest ways to contace me. Discord: Geo Cubed#8456 Twitter: https://twitter.com/Geo_Cubed
 - 😄 Finished Projects -> Squid-League-4 A tournament viewer for the squid league tourney ran by NPUK (Nintendo players uk)
-- ⚡ Intrests -> SQL / Databases and Backend Development
+- ⚡ Interests -> SQL / Databases and Backend Development
 <!--
 **Geo-Cubed/Geo-Cubed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
